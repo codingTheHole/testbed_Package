@@ -5,6 +5,8 @@ public struct testbed_Package {
     }
 }
 
-public func greet() {
-  print("testbed_Package says hi")
+public class Greeter {
+  public func greet() {
+    print("testbed_Package says hi")
+  }
 }
